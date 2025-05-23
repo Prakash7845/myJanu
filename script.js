@@ -1,5 +1,5 @@
 function calculateMonths() {
-  const marriageDate = new Date(2023, 7, 23); // August is month 7 (0-based index)
+  const marriageDate = new Date(2024, 7, 23); // August is month 7 (0-based index)
   const now = new Date();
   
   let months =
